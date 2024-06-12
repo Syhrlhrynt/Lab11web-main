@@ -1,6 +1,6 @@
-﻿|Nama |Tyanshi Firli Maharani|
+﻿|Nama |Syahril Haryanto|
 | :- | :- |
-|Nim |312210581|
+|Nim |312210668000|
 |Kelas |TI.22.A.5|
 |Mata Kuliah|Pemgraman Web 2|
 |Tugas |Lab11|
